@@ -1,0 +1,23 @@
+# IDE
+.vscode
+.idea
+.DS_Store
+
+# Python cache
+*.pyc
+__pycache__/
+
+# environment
+*.env
+env/
+.venv/
+
+# other
+logs/
+outputs/
+*.pth
+*.npy
+*.tif
+*.zip
+
+debug/

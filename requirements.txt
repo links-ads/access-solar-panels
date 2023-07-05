@@ -1,0 +1,24 @@
+affine==2.3.0
+albumentations==1.0.0
+click==8.0.1
+Fiona==1.8.20
+# flake8==3.9.2
+geopandas==0.9.0
+imageio==2.9.0
+matplotlib==3.4.2
+numpy==1.20.3
+pandas==1.2.4
+Pillow==8.2.0
+pydantic==1.8.2
+pyproj==3.1.0
+python-dotenv==0.17.1
+PyYAML==5.4.1
+rasterio==1.2.4
+scikit-image==0.18.1
+scipy==1.6.3
+Shapely==1.7.1
+tensorboard==2.5.0
+tifffile==2021.6.6
+tqdm==4.61.0
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111
